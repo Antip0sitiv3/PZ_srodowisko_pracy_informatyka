@@ -1,3 +1,4 @@
 Przykładowy plik na zaliczenie.
 Kierunek: Informatyka
 Przedmiot: Środowisko pracy informatyka - dr inż. Piotr Bobiński 
+Autor: Cyprian Milewski 167483
