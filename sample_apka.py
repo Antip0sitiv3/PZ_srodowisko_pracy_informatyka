@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, redirect
 
 app = Flask(__name__)
 
@@ -10,5 +10,9 @@ def home():
 def user(name):
     return f"Hello {name}!"
 
+@app.route("/wsb")
+def wsb():
+    return redirect("https://www.merito.pl/warszawa/")
+
 if __name__ == "__main__":
-    app.run()a
+    app.run()
