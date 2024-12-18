@@ -1,1 +1,3 @@
 Przykładowy plik stworzony w ramach zadania projektowego.
+
+Przedmiot: Środowisko pracy informatyka - INF - dr inż. Piotr Bobiński ZIMA 2024/25 NST_B
