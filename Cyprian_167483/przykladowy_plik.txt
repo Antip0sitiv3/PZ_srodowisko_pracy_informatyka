@@ -1,1 +1,3 @@
 Przykładowy plik na zaliczenie.
+Kierunek: Informatyka
+
